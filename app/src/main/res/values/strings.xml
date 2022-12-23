@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GeekBrains</string>
+    <string name="switch_task">Переключение между заданиями</string>
+    <string name="first_task">Это первое задание...</string>
+    <string name="edit_num">А сюда можно ввести цифры</string>
+    <string name="clear_text">ОЧИСТИТЬ</string>
+    <string name="color_text">Цвет фона</string>
+    <string name="text_white">Белый</string>
+    <string name="text_purple">Фиолетовый</string>
+    <string name="text_cream">Кремовый</string>
+    <string name="text_blue">Васильковый</string>
+    <string name="text_exits">Выходили</string>
+    <string name="text_starts">Запущено</string>
+    <string name="text_name">Имя</string>
+    <string name="text_request_input">Давай заполним поля</string>
+    <string name="edit_phone">Номер телефона</string>
+    <string name="edit_sname">Фамилия</string>
+    <string name="edit_fun">Номер счета))))))</string>
+    <string name="edit_pin_fun">Пин-код ))))))</string>
+    <string name="edit_email">Email</string>
+    <string name="text_exit">ВЫХОД</string>
+    <string name="text_1">1</string>
+    <string name="text_2">2</string>
+    <string name="text_3">3</string>
+    <string name="text_4">4</string>
+    <string name="text_5">5</string>
+    <string name="text_6">6</string>
+    <string name="text_7">7</string>
+    <string name="text_8">8</string>
+    <string name="text_9">9</string>
+    <string name="text_0">0</string>
+    <string name="text_x">X</string>
+    <string name="text_minus">-</string>
+    <string name="text_plus">+</string>
+    <string name="text_dot">.</string>
+    <string name="text_equals">=</string>
+    <string name="text_c">C</string>
+    <string name="text_perc">%</string>
+    <string name="text_division">/</string>
+    <string name="text_del"><![CDATA[<Del]]></string>
+</resources>
