@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         lessons.add(new Lesson("1 урок",
                 new Intent(this, Lesson_1.class)));
 
-        lessons.add(new Lesson("2 урок",
+        lessons.add(new Lesson("2 - 4 уроки",
                 new Intent(this, Lesson_2.class)));
 
     }

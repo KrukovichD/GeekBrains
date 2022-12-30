@@ -19,4 +19,9 @@
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
     </style>
+    <style name="PurpleButton" parent="@style/Widget.AppCompat.Button.Colored">
+        <item name="background">@drawable/btn_rounded_corner</item>
+        <item name="colorButtonNormal">@color/purple_200</item>
+        <item name="colorControlHighlight">#673ab7</item>
+    </style>
 </resources>
